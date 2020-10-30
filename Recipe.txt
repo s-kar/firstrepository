@@ -3,3 +3,5 @@ Welcome to kitchen.
 Sandesh
 Rasagolla
 Moya
+
+Plain Rice
